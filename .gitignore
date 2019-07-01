@@ -14,7 +14,7 @@ wat.paths
 segment.paths
 cdx*.gz
 commoncrawl.txt
-commoncrawl-CC-MAIN-*
+//commoncrawl-CC-MAIN-*
 commoncrawl-mdb-CC-MAIN-*
 commoncrawl-emf-CC-MAIN-*
 mimetypes.txt
